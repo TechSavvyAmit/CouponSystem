@@ -80,7 +80,10 @@ CouponSystem/
 
 ```
 Original Cart Total: 25000 Rs
-Applied Coupons: FESTIVE + BANK10
+[OK] Seasonal Offer 10% on Clothing           - Rs 300
+[OK] Loyalty Discount 5%                      - Rs 1235
+[OK] Bulk Discount Rs 100 on min Rs 1000      - Rs 100
+[OK] ABC Bank 15% off upto Rs 500             - Rs 500
 Final Cart Total: 22865 Rs
 ```
 
